@@ -8,5 +8,6 @@ public class Question1 {
             sum=sum+element;
         }
         System.out.println(sum);
+        System.out.println();
     }
 }
