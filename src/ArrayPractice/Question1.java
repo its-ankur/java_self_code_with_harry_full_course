@@ -9,5 +9,6 @@ public class Question1 {
         }
         System.out.println(sum);
         System.out.println();
+        System.out.println();
     }
 }
